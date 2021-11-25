@@ -1,7 +1,8 @@
 onlineshop:
   email:
     template:
-      sendotp: templates/sendotp.ftl
-      changepassword: templates/changepassword.ftl
-      passwordchanged: templates/passwordchanged.ftl
-      offersforyou: templates/offersforyou.ftl
+      sendotp: templates/send-otp.ftl
+      changepassword: templates/change-password.ftl
+      passwordchanged: templates/password-changed.ftl
+      offersforyou: templates/offers-for-you.ftl
+      loggedinondevice: templates/logged-in-on-device.ftl
